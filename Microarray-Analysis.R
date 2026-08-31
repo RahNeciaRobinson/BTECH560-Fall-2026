@@ -22,3 +22,14 @@ data <- ReadAffy()
 #Plote the read dataset as a boxplot
 
 boxplot(data)
+
+#Preprocessing the microarray chips using Normalization
+
+Normalizeddata<-rma(data)
+
+#Boxplot the normalized dataset
+
+Normalizeddata<-exprs(Normalizeddata)
+
+boxplot(Normalizeddata)
+
