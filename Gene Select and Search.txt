@@ -1,5 +1,0 @@
-Gene: 	BRCA1
-Gene name: BRCA1 DNA repair associated
-Organism: Homo sapiens (human)
-Gene ID: 672
-Function: This gene encodes a 190 kD nuclear phosphoprotein that plays a role in maintaining genomic stability, and it also acts as a tumor suppressor. This protein thus plays a role in transcription, DNA repair of double-stranded breaks, and recombination
